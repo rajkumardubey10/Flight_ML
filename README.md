@@ -2,6 +2,19 @@
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.10](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)
 
+# Software And Tools Requirements
+
+1. [Github Account](https://github.com)
+2. [Heroku Account](https://heroku.com)
+3. [VS Code IDE](https://code.visualstudio.com)
+4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
+
+Creat a new environment
+
+```
+conda create -p venv python==3.11.4 -y
+```
 # Abstract :
 The dynamic pricing structure of the aviation sector is a challenge to both airlines and passengers seeking effective revenue management and transparent fare information. The "Flight Fare Prediction System" is an inventive use of machine learning designed to transform the process of determining flight fares in response to this.
 The goal of this project is to create a strong machine learning model that can accurately anticipate flight costs by using real-time and historical data in conjunction with sophisticated analytics. By providing airlines with the capacity to dynamically optimize fares in response to market dynamics, demand changes, and other influencing factors, the system seeks to go beyond the constraints of conventional rule-based pricing systems.
@@ -32,7 +45,6 @@ The project also includes a continuous improvement framework for scalability and
 # Project Perspective :
 
 The Flight Fare Prediction System is like a high-tech solution for the airline industry. It smoothly works with existing pricing systems and uses smart computer models to guess flight prices really accurately. It's a game-changer, making decisions smarter and tweaking prices as needed. It handles a bunch of data to figure out flight prices, making it easier for airlines and passengers to understand. With an easy-to-use interface, it fits right into how airlines operate. Basically, it's a big step forward in how we deal with flight prices.
-
 
 
 # Tools and Technology :
