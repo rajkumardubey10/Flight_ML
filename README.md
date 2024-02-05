@@ -15,6 +15,11 @@ Creat a new environment
 ```
 conda create -p venv python==3.11.4 -y
 ```
+
+#  Web Application Screenshot :
+![SAVE_20240203_234915](https://github.com/rajkumardubey10/Flight_ML/assets/144990687/60fc5f9f-0004-4ccd-b9a9-bb7e4d8060fa)
+![SAVE_20240203_234857](https://github.com/rajkumardubey10/Flight_ML/assets/144990687/b79e7cad-dbbb-4433-bee0-0ec09359ec0b)
+
 # Abstract :
 The dynamic pricing structure of the aviation sector is a challenge to both airlines and passengers seeking effective revenue management and transparent fare information. The "Flight Fare Prediction System" is an inventive use of machine learning designed to transform the process of determining flight fares in response to this.
 The goal of this project is to create a strong machine learning model that can accurately anticipate flight costs by using real-time and historical data in conjunction with sophisticated analytics. By providing airlines with the capacity to dynamically optimize fares in response to market dynamics, demand changes, and other influencing factors, the system seeks to go beyond the constraints of conventional rule-based pricing systems.
