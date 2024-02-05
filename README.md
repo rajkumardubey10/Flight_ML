@@ -24,3 +24,17 @@ the provided dataset.
  **Improve Revenue Management:** - Make better judgments about price changes and marketing campaigns by using the predictive model to revenue management for airlines.
  
  **Improve Passenger Transparency:**  - Give passengers more information on fare structures, including precise estimates and intelligible explanations of the variables determining.
+
+# Scope :
+The "Flight Fare Prediction System" project aims to revolutionize airline pricing by developing an advanced machine learning model that predicts flight fares with unprecedented accuracy. The system allows airlines to make real-time adjustments to pricing strategies based on market dynamics and demand fluctuations. The project prioritizes user transparency and provides an intuitive user interface for easy interaction. The model is evaluated against traditional pricing methods to validate its effectiveness. 
+The project also includes a continuous improvement framework for scalability and robustness. The findings could contribute to future research and development efforts in predictive analytics in the aviation industry.
+
+# Project Perspective :
+
+The Flight Fare Prediction System is like a high-tech solution for the airline industry. It smoothly works with existing pricing systems and uses smart computer models to guess flight prices really accurately. It's a game-changer, making decisions smarter and tweaking prices as needed. It handles a bunch of data to figure out flight prices, making it easier for airlines and passengers to understand. With an easy-to-use interface, it fits right into how airlines operate. Basically, it's a big step forward in how we deal with flight prices.
+
+
+
+# Tools and Technology :
+ ![logo](https://th.bing.com/th/id/OIP.Dd8IBe1AjWvzyhJzTjBftwHaD_?rs=1&pid=ImgDetMain)
+ 
