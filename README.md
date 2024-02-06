@@ -10,12 +10,46 @@
 4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 
-Creat a new environment
+## Creat a new environment
 
 ```
 conda create -p venv python==3.11.4 -y
 ```
-
+## Write all required library in requirement.txt file for this project : 
+1. scikit-learn
+2. ipykernel
+3. catboost
+4. xgboost
+5. dill
+6. matplotlib
+7. seaborn
+8. pandas
+9. numpy
+## To install all library in one go :
+```
+pip install -r requirements.txt
+```
+## All mostly used git command in this project :
+### Git Initiating
+```
+git init
+```
+### Adding All Changes 
+```
+git add .
+```
+### Cheking Which All File We Added 
+```
+git status
+```
+### Commenting the Changes
+```
+git commit -m "write comment here"
+```
+### Push The Code To GitHub Repository
+```
+git push -u origin main
+```
 
 #  Web Application Screenshot :
 ![SAVE_20240203_234915](https://github.com/rajkumardubey10/Flight_ML/assets/144990687/60fc5f9f-0004-4ccd-b9a9-bb7e4d8060fa)
