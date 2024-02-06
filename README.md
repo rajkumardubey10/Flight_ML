@@ -15,6 +15,9 @@ Creat a new environment
 ```
 conda create -p venv python==3.11.4 -y
 ```
+# Demo :
+https://github.com/rajkumardubey10/Flight_ML/assets/144990687/133d316b-3dc9-43dd-a8f4-54e84897467f
+
 
 #  Web Application Screenshot :
 ![SAVE_20240203_234915](https://github.com/rajkumardubey10/Flight_ML/assets/144990687/60fc5f9f-0004-4ccd-b9a9-bb7e4d8060fa)
