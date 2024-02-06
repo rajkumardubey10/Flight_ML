@@ -15,7 +15,7 @@
 ```
 conda create -p venv python==3.11.4 -y
 ```
-## Write all required library in requirement.txt file for this project : 
+## All required library in requirement.txt file for this project : 
 1. scikit-learn
 2. ipykernel
 3. catboost
