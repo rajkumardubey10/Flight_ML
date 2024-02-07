@@ -5,7 +5,7 @@
 # Software And Tools Requirements
 
 1. [Github Account](https://github.com)
-2. [Heroku Account](https://heroku.com)
+2. [Azure Account](https://azure.microsoft.com/en-us/free)
 3. [VS Code IDE](https://code.visualstudio.com)
 4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
@@ -15,7 +15,7 @@
 ```
 conda create -p venv python==3.11.4 -y
 ```
-## All required library in requirement.txt file for this project : 
+## All required dependencies in requirement.txt file for this project : 
 1. scikit-learn
 2. ipykernel
 3. catboost
@@ -25,28 +25,43 @@ conda create -p venv python==3.11.4 -y
 7. seaborn
 8. pandas
 9. numpy
-## To install all library in one go :
+
+To install all library in one go :
+```
+pip install -r requirements.txt
+```
+# Installation:
+
+Clone the repository:
+```
+git clone https://github.com/your_username/dish-recipe-generator.git
+```
+Navigate to the project directory:
+```
+cd dish-recipe-generator
+```
+Install the dependencies:
 ```
 pip install -r requirements.txt
 ```
 ## All mostly used git command in this project :
-### Git Initiating
+Git Initiating
 ```
 git init
 ```
-### Adding All Changes 
+Adding All Changes 
 ```
 git add .
 ```
-### Cheking Which All File We Added 
+Cheking Which All File We Added 
 ```
 git status
 ```
-### Commenting the Changes
+Commenting the Changes
 ```
 git commit -m "write comment here"
 ```
-### Push The Code To GitHub Repository
+Push The Code To GitHub Repository
 ```
 git push -u origin main
 ```
