@@ -113,5 +113,5 @@ The Flight Fare Prediction System is like a high-tech solution for the airline i
 ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/75px-Git-logo.svg.png)
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/75px-Octicons-mark-github.svg.png)
 
-
+<img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="75">
 
